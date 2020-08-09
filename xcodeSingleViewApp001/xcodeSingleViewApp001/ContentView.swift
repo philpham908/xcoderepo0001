@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, Xcode 11!")
+        Text("This is your iOS mobile app. content.")
     }
 }
 
